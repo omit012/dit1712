@@ -1,0 +1,21 @@
+.heading1{
+      color: rgb(187, 93, 93);
+	font-size:40px;
+	text-align:center;
+	border:20px;
+}
+div{
+	text-align:center;
+	font-size:25pX;
+	background-color:rgb(236, 139, 139);
+}
+body{
+	background-color:lightblue;
+	font-size:25px;
+}
+input{
+	font-size:25px;
+	background-color:#b6dae7;
+	color: rgb(56, 46, 46);
+	border-color:rgb(27, 13, 13);
+}
